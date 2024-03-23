@@ -15,8 +15,4 @@ List<String> uniquelist = fruits.where((fruits1) => seen.add(fruits1)).toList();
 print(uniquelist);
 
 
-
-
-
-
 }
